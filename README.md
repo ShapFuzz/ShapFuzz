@@ -1,4 +1,4 @@
-### Hi there 👋
+### The source code will be released before the NDSS 2024 conference.
 
 <!--
 **ShapFuzz/ShapFuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
